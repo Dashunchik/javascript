@@ -26,3 +26,4 @@ changes for branch1
 
 1 changes for branch2
 2 changes for branch3
+3 changes for branch2
